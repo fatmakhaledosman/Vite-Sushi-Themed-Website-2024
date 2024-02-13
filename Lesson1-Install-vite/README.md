@@ -52,20 +52,20 @@ $ npm create vite@latest
 Then follow the prompts!
 
 
-![install-vite-1]()
+![install-vite-1](https://github.com/fatmakhaledosman/Vite-Sushi-Themed-Website-2024/blob/main/Lesson1-Install-vite/images/install-vite-1.png)
 
-![install-vite-2]()
+![install-vite-2](https://github.com/fatmakhaledosman/Vite-Sushi-Themed-Website-2024/blob/main/Lesson1-Install-vite/images/install-vite-2.png)
 
-![install-vite-3]()
+![install-vite-3](https://github.com/fatmakhaledosman/Vite-Sushi-Themed-Website-2024/blob/main/Lesson1-Install-vite/images/install-vite-3.png)
 
-![install-vite-4]()
+![install-vite-4](https://github.com/fatmakhaledosman/Vite-Sushi-Themed-Website-2024/blob/main/Lesson1-Install-vite/images/install-vite-4.png)
 
-![install-vite-5]()
+![install-vite-5](https://github.com/fatmakhaledosman/Vite-Sushi-Themed-Website-2024/blob/main/Lesson1-Install-vite/images/install-vite-5.png)
 
-![install-vite-6]()
+![install-vite-6](https://github.com/fatmakhaledosman/Vite-Sushi-Themed-Website-2024/blob/main/Lesson1-Install-vite/images/install-vite-6.png)
 
-![install-vite-7]()
+![install-vite-7](https://github.com/fatmakhaledosman/Vite-Sushi-Themed-Website-2024/blob/main/Lesson1-Install-vite/images/install-vite-7.png)
 
 http://localhost:5173 
 
-![install-vite-8]()
+![install-vite-8](https://github.com/fatmakhaledosman/Vite-Sushi-Themed-Website-2024/blob/main/Lesson1-Install-vite/images/install-vite-8.png)
